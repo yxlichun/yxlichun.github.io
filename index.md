@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 概况
 
 create-react-app是由facebook出品的快速生成React项目的工具，57k星；设计理念是快速的生成可用的react应用，本身没有加入更多的关于最佳实践的内容，侧重点为快捷、方便;
